@@ -1,0 +1,58 @@
+.ContainerSmall{
+  background: #897058;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.MyName{
+  padding-top: 30px;
+  color: #FFE7D4;
+}
+
+.FrontEnd{
+  padding-top: 30px;
+  color: #FEFEFA;
+}
+
+.title_1{
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: #FFE7D4;
+}
+
+.parag{
+  color: #F2EFE9;
+  margin: 0 0 0 10px;
+}
+
+.icon:hover{
+  color:#0013df
+}
+
+.ContainerNext{
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.title_2{
+  background-color: #FFE7D4;
+  width: 300px;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+}
+
+.title_3{
+  color: #FF5757;
+  font-weight: 500;
+}
